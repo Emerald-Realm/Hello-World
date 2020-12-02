@@ -1,0 +1,3 @@
+How to get ssh key
+1. get gitbash
+2.open gitbash
