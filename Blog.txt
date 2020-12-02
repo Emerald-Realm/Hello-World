@@ -1,3 +1,12 @@
 How to get ssh key
 1. get gitbash
 2.open gitbash
+3. enter ssh-keygen -t rsa -b -4096 -C "githubemail@mail.com"
+4. press enter
+5. it ask's where to save, press enter to save at default
+6. you are then asked ffor passphrase which serves as your password
+7. you are needed to repeat the passphrase 
+8. your key is generated
+9.you go to the folder containing the key
+10. you open the .pub file in a text editor
+11. you can now copy and apply your key
