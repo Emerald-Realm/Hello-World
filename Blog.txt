@@ -1,3 +1,19 @@
-How to get ssh key
-1. get gitbash
-2.open gitbash
+Topic : About Github
+ Introduction :
+    Github is an interface to store and manage documents prone to changes over time
+How to Join Github
+    Go to `github.com`, on the landing page fill the form available and click on the sign up button to join github
+Using Github
+    on the upper tab of the webpage, you see a plus(+) button, clicking on it brings a dropdown list and select the new
+repository option,
+  What is a repository? A repository is folder containing all files of a project.
+Importing a repository to local enviroment ?  open your text editor, and launch the terminal; in the terminal type
+`git clone [ssh address] `
+Checking Git status or changes ? type in the terminal `git status`
+Adding to Git ? type in the terminal `git add .`
+Commiting to Git ? type in the terminal `git commit -m "[message]" `
+Pushing to Git ? type in the terminal `git push [alias] [branch]`
+Check available branches ? type in the terminal `git branch`
+Create new branch ? type in the terminal `git checkout -b [new branch name]`
+Switch to new branch ? type in terminal `git checkout [branch name]`
+
